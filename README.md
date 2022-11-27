@@ -18,8 +18,8 @@ This project get the API call from Yelp fusion with authorization. This program 
 
 <p align="center">
 <br />
-Loading the Database:  <br/>
-<img src="https://imgur.com/t40l71d">
+Print out all of the barber shops in NYC that has a 4.5 star higher rating from Yelp  <br/>
+<img src="https://imgur.com/t40l71d.png">
 
 
 <!--
